@@ -34,3 +34,8 @@ Ajude os usuários a evitar e corrigir erros.
 Escreva código HTML válido e limpo usando a semântica correta.Existem muitas ferramentas na web para validar o código HTML. Um popular é o Google Lighthouse que executa testes em páginas da web para validá-las em termos de acessibilidade, velocidade de carregamento e otimização.
 
 ![image](https://user-images.githubusercontent.com/79637913/171415601-4210e11e-464b-4040-97a1-3d0bf05449ae.png)
+
+## 2.5 - Input Modalities
+Torne mais fácil para os usuários operar a funcionalidade por meio de várias entradas além do teclado.
+
+![image](https://user-images.githubusercontent.com/79637913/171418114-eeef8b3d-80f1-4fd2-ba97-3b5fd235fa62.png)
