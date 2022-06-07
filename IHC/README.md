@@ -24,6 +24,16 @@ Torne mais fácil para os usuários ver e ouvir o conteúdo, incluindo a separa�
 
 ![image](https://user-images.githubusercontent.com/79637913/167045925-37b397ae-d10c-4c2d-b471-ed8fc3444dc5.png)
 
+## 2.5 - Input Modalities
+Torne mais fácil para os usuários operar a funcionalidade por meio de várias entradas além do teclado.
+
+![image](https://user-images.githubusercontent.com/79637913/171418114-eeef8b3d-80f1-4fd2-ba97-3b5fd235fa62.png)
+
+## Guideline 3.1 – Readable
+Torne o conteúdo do texto legível e compreensível. Esta diretriz se concentra em tornar o conteúdo do texto o mais compreensível possível. A linguagem humana padrão de cada página da Web deve ser detectável via código.
+
+![image](https://user-images.githubusercontent.com/79637913/172379541-6d27c79d-8336-4de4-ab51-67554bb0fadc.png)
+
 
 ## 3.3 - Input Assistance
 Ajude os usuários a evitar e corrigir erros.
@@ -35,7 +45,4 @@ Escreva código HTML válido e limpo usando a semântica correta.Existem muitas 
 
 ![image](https://user-images.githubusercontent.com/79637913/171415601-4210e11e-464b-4040-97a1-3d0bf05449ae.png)
 
-## 2.5 - Input Modalities
-Torne mais fácil para os usuários operar a funcionalidade por meio de várias entradas além do teclado.
 
-![image](https://user-images.githubusercontent.com/79637913/171418114-eeef8b3d-80f1-4fd2-ba97-3b5fd235fa62.png)
